@@ -1,0 +1,13 @@
+{
+    "categories": {
+        "0": "productivity",
+        "1": "technical"
+    },
+    "demo_page": "https://barcodetestwe.bubbleapps.io/version-test/elementtoimage?debug_mode=true",
+    "description": "Converts an element (a group) to a PNG, which can then be accessed and saved or downloaded directly to the user's computer.   \nNote: Fixed the common know bug - Unable to export the images inside the group.\n\nFeatures:\n- export any group to png. \n- dynamic file name. \n- save the image to Bubble Database. \n- store images on the client side.\n\nDEMO & DOCUMENTATION\nhttps://zeroqode.com/plugin/screenshot-the-group-plugin-for-bubble-1692108893599x390615039276466000\n\nPLUGIN FORUM THREAD\nhttps://forum.bubble.io/t/full-phantom-new-plugin-from-zeroqode/204901\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://dev.zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com",
+    "image": "//s3.amazonaws.com/appforest_uf/f1660019576055x313191776075194750/html2canvasimage.png",
+    "license": "open_source",
+    "link": "https://zeroqode.com/plugins",
+    "name": "Screenshot the Group",
+    "plugin_instructions": "- expose the add HTML ID to elements (Settings => General => Enable \"Option the option to add an ID attribute to HTML elements\"\n- add the ID to the Group you want to export as the image. \n- drag the element \"Element as PNG\" to the editor. \n- use the workflow \"Export Image\""
+}
