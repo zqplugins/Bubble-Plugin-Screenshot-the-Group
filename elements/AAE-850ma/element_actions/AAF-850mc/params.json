@@ -23,14 +23,23 @@
             "default_val": true,
             "editor": "Checkbox",
             "name": "save",
-            "rank": 2
+            "rank": 3
         },
         "AAM": {
             "caption": "Download Image",
             "default_val": true,
             "editor": "Checkbox",
             "name": "download",
-            "rank": 3
+            "rank": 4
+        },
+        "AAf": {
+            "caption": "Scale",
+            "doc": "Set a numeric value greater than 0 to scale the image. For example, 2 will double the resolution, 3 will triple it, and so on. Higher values produce finer details but increase the file size. Optional",
+            "editor": "DynamicValue",
+            "name": "scale",
+            "optional": true,
+            "rank": 2,
+            "value": "number"
         }
     }
 }
